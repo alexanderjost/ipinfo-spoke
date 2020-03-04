@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="hostname" label="Hostname" language="en" table="var__m_sys_hub_action_output_1eae2ed61b170010c401fc88cc4bcb62">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>hostname</element>
+            <help/>
+            <hint/>
+            <label>Hostname</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_output_1eae2ed61b170010c401fc88cc4bcb62</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-04 13:27:33</sys_created_on>
+            <sys_id>f3c6b2de1b170010c401fc88cc4bcbb0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Hostname</sys_name>
+            <sys_package display_value="IPInfo Spoke" source="x_455719_ipinfo_sp">d91ee6561b170010c401fc88cc4bcb5b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPInfo Spoke">d91ee6561b170010c401fc88cc4bcb5b</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_output_1eae2ed61b170010c401fc88cc4bcb62_hostname_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-04 13:27:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
